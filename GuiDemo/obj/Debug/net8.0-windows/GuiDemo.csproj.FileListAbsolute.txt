@@ -1,0 +1,33 @@
+C:\Users\brian\Desktop\MS539\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.exe
+C:\Users\brian\Desktop\MS539\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.deps.json
+C:\Users\brian\Desktop\MS539\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.runtimeconfig.json
+C:\Users\brian\Desktop\MS539\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.dll
+C:\Users\brian\Desktop\MS539\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.pdb
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.Form1.resources
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.csproj.GenerateResource.cache
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.AssemblyInfo.cs
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.dll
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\refint\GuiDemo.dll
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.pdb
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.genruntimeconfig.cache
+C:\Users\brian\Desktop\MS539\GuiDemo\obj\Debug\net8.0-windows\ref\GuiDemo.dll
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.exe
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.deps.json
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.runtimeconfig.json
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.dll
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\bin\Debug\net8.0-windows\GuiDemo.pdb
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.Form1.resources
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.csproj.GenerateResource.cache
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.AssemblyInfoInputs.cache
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.AssemblyInfo.cs
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.sourcelink.json
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.dll
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\refint\GuiDemo.dll
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.pdb
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\GuiDemo.genruntimeconfig.cache
+C:\Users\brian\Desktop\MS539 Code\GuiDemo\obj\Debug\net8.0-windows\ref\GuiDemo.dll
